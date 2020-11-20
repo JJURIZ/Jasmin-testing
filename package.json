@@ -1,0 +1,23 @@
+{
+  "name": "Jasmin-testing",
+  "version": "1.0.0",
+  "description": "GA - Jasmin Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/Jasmin-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/Jasmin-testing/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/Jasmin-testing#readme",
+  "devDependencies": {
+    "jasmin": "0.0.2"
+  }
+}
